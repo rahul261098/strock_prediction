@@ -1,4 +1,4 @@
-# strock_prediction
+# strock_predictions
 #Stroke_Prediction_Analysis
 Project Overview
 This project aims to develop and evaluate machine learning models for predicting stroke based on various health-related attributes. The goal is to identify individuals at high risk of stroke, which can aid in early intervention and preventive strategies. This analysis covers data loading, preprocessing, model training, hyperparameter tuning, and performance evaluation of several classification algorithms.
